@@ -29,7 +29,9 @@ I believe in continuous learning. Currently, I'm diving deep into [Current Learn
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadegrande99&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadegrande99&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dracula&)
+
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dadegrande99&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🤝 Let's Connect
 
