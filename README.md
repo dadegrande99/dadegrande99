@@ -23,10 +23,6 @@ Welcome to my GitHub profile! I'm a passionate computer science student pursuing
 - 📚 Constantly learning and exploring new technologies.
 - 👩‍💻 Actively working on projects that challenge and expand my skills.
 
-### 🌱 Learning Journey
-
-I believe in continuous learning. Currently, I'm diving deep into [Current Learning Focus] to broaden my skill set.
-
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadegrande99&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dracula&)
