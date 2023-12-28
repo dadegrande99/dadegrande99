@@ -17,6 +17,11 @@ Welcome to my GitHub profile! I'm a passionate computer science student pursuing
   - 🐘 PHP
   - 🐚 Bash/Shell
   - And more!
+- 💾 Good handling of different relational and non-relational databases:
+  - 🐬 MySQL
+  - 🍃 MongoDB
+  - 🔄 Neo4J
+  - 🐘 PostgreSQL
 
 ### 🚀 What I'm Up To
 
